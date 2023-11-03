@@ -79,6 +79,7 @@ target/
 
 # Pyenv
 .python-version
+.venv_dbt
 
 # Vim
 *.sw*
@@ -99,3 +100,6 @@ venv/
 trash/
 
 greenplum_test_dbt/
+
+#developer test files
+test.py
